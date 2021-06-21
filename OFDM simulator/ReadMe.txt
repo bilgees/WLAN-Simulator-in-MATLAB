@@ -3,7 +3,7 @@ June 21th 2021:
 
 This design has been obtained by making additions on a ready-made code.
 
-Runsim_2.m and waterfilling.m files have been added to the existing codes.
+runsim_2.m and waterfilling.m files have been added to the existing codes.
 
 Updated files are rx_estimate_channel.m, rx_gen_chan_amps.m, receiver.m, single_packet.m, and runsim.m .
 
